@@ -28,7 +28,7 @@ fun main(parametro: Array<String>) {
 }
 
 //Paso de funciones como parámetros dentro de una clase.
-//🔹 La clase Persona4 incluye un método esMayor() que evalúa una función booleana sobre la edad.
+//🔹 La clase Persona4 incluye un metodo esMayor() que evalúa una función booleana sobre la edad.
 //🔹 Se definen dos funciones: mayorEstadosUnidos() y mayorArgentina() con diferentes reglas de mayoría de edad.
 //🔹 En main(), se crea una persona y se evalúa si es mayor según los dos países.
 //🔹 Ideal para aprender cómo usar funciones de evaluación externa con objetos.

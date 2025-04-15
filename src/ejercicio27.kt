@@ -29,7 +29,7 @@ fun main(args: Array<String>) {
 }
 
 //Uso de clases abstractas para definir un comportamiento común con especialización.
-//🔹 Operacion2 es una clase abstracta con una propiedad resultado y un método abstracto operar().
-//🔹 Suma y Resta son clases hijas que implementan el método operar() de forma específica.
+//🔹 Operacion2 es una clase abstracta con una propiedad resultado y un metodo abstracto operar().
+//🔹 Suma y Resta son clases hijas que implementan el metodo operar() de forma específica.
 //🔹 En main(), se crean objetos de ambas clases, se ejecutan operaciones y se imprime el resultado.
 //🔹 Ilustra muy bien el concepto de abstracción y polimorfismo.

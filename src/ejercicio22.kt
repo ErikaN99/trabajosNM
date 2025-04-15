@@ -26,7 +26,7 @@ fun main(parametro: Array<String>) {
 //Uso de enum class con parámetros y lógica condicional en Kotlin.
 //🔹 TipoOperacion define cuatro operaciones con su símbolo respectivo.
 //🔹 La clase Operacion recibe dos valores enteros y un tipo de operación.
-//🔹 En el método operar(), se calcula el resultado según el tipo de operación.
+//🔹 En el metodo operar(), se calcula el resultado según el tipo de operación.
 //🔹 Se usa when para evaluar cada caso del enum.
 //🔹 En main(), se crea una operación de suma y se ejecuta.
 //🔹 Excelente ejemplo para aprender enums con argumentos y lógica condicional.

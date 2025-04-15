@@ -22,7 +22,7 @@ fun main(parametro: Array<String>) {
 }
 
 //Uso de arreglos de objetos y evaluación de condiciones.
-//🔹 Se define la clase Persona2 con nombre y edad, y un método esMayor() para determinar si es mayor de edad.
+//🔹 Se define la clase Persona2 con nombre y edad, y un metodo esMayor() para determinar si es mayor de edad.
 //🔹 En main(), se crea un arreglo de varias personas.
 //🔹 Se imprime la lista y luego se cuenta cuántas son mayores de edad.
 //🔹 Demuestra cómo recorrer arreglos de objetos y aplicar lógica condicional sobre ellos.

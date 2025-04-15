@@ -34,6 +34,6 @@ fun main(args: Array<String>) {
 
 //Interface Figura que es implementada por las clases Cuadrado y Rectangulo.
 //🔹 Cada clase debe definir cómo calcula superficie y perímetro.
-//🔹 El método tituloResultado() imprime un encabezado común.
+//🔹 El metodo tituloResultado() imprime un encabezado común.
 //🔹 En main(), se crean objetos de ambas figuras, se invocan sus métodos y se imprime su información.
 //🔹 Refuerza el uso de interfaces para manejar estructuras geométricas con diferentes comportamientos.

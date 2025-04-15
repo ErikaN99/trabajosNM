@@ -28,8 +28,8 @@ fun main(parametro: Array<String>) {
 }
 
 //	Se define una clase Persona7 con los atributos nombre y edad.
-//	El método imprimir() muestra el nombre y la edad de cada persona.
-//	El método esMayor() devuelve true si la edad es mayor o igual a 18.
+//	El metodo imprimir() muestra el nombre y la edad de cada persona.
+//	El metodo esMayor() devuelve true si la edad es mayor o igual a 18.
 //	En la función main, se crea un arreglo de personas (Persona7).
 //	Se imprimen todas las personas.
 //	Luego, se cuenta cuántas personas son mayores de edad usando forEach y se imprime ese total.

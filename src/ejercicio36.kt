@@ -31,7 +31,7 @@ fun main(parametro: Array<String>) {
 }
 //Este código muestra cómo recorrer un arreglo con forEach para hacer operaciones:
 //🔹 Se genera un arreglo de 10 números aleatorios del 0 al 99.
-//🔹 Se imprime todo el arreglo.
+//🔹 Se imprimetodo el arreglo.
 //🔹 Se usa forEach para contar cuántos elementos son múltiplos de 3.
 //🔹 Luego, se suma con forEach los elementos mayores a 50.
 //🔹 Es un ejemplo claro del uso de funciones lambda en recorridos.

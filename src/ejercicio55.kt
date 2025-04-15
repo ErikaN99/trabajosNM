@@ -23,6 +23,6 @@ fun main(args: Array<String>) {
     }
 }
 //Se crea una lista inmutable lista1 con los días de la semana. Se imprime toda la lista de días. Se imprime el primer
-//día de la semana (lunes) usando índice. Se imprime el primer día usando el método first().Se imprime el último día
+//día de la semana (lunes) usando índice. Se imprime el primer día usando el metodo first().Se imprime el último día
 //(domingo) usando last().Se imprime el último elemento mediante su posición. Se muestra cuántos elementos tiene la lista
 // (7). Se recorre e imprime la lista con un bucle for. Se imprimen los elementos junto con su posición correspondiente.

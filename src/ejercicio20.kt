@@ -11,7 +11,7 @@ fun main(parametro: Array<String>) {
     println(persona2)
 }
 
-//Definición de una data class personalizada con método toString() sobreescrito.
+//Definición de una data class personalizada con metodo toString() sobreescrito.
 //🔹 La clase Persona3 redefine toString() para mostrar nombre y edad como una cadena formateada.
 //🔹 En main(), se crean dos objetos con diferentes datos y se imprimen directamente.
 //🔹 Gracias al override, el resultado es personalizado y no el predeterminado de Kotlin.

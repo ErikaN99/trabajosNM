@@ -33,8 +33,8 @@ fun main(parametro: Array<String>) {
 }
 
 //Simula un juego de dados con clases Dado y JuegoDeDados.
-//🔹 Dado tiene un método tirar() que asigna un número aleatorio entre 1 y 6.
-//🔹 JuegoDeDados contiene tres dados y un método jugar() que lanza los tres.
+//🔹 Dado tiene un metodo tirar() que asigna un número aleatorio entre 1 y 6.
+//🔹 JuegoDeDados contiene tres dados y un metodo jugar() que lanza los tres.
 //🔹 Si los tres dados muestran el mismo valor, imprime “Ganó”, si no, “Perdió”.
 //🔹 En main(), se crea un objeto del juego y se invoca jugar().
 //🔹 Ejemplo divertido de cómo usar clases para modelar juegos aleatorios.

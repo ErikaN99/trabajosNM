@@ -32,6 +32,6 @@ fun main(parametro: Array<String>) {
 //Se utiliza herencia entre clases con sobreescritura de métodos (override).
 //🔹 PersonaDato es una clase base con nombre y edad.
 //🔹 Empleado hereda de PersonaDato y agrega el sueldo.
-//🔹 Empleado sobreescribe el método imprimir() y añade pagaImpuestos(), que evalúa si debe pagar impuestos según su sueldo.
+//🔹 Empleado sobreescribe el metodo imprimir() y añade pagaImpuestos(), que evalúa si debe pagar impuestos según su sueldo.
 //🔹 En main(), se crean e imprimen objetos de ambas clases.
 //🔹 Ilustra claramente herencia, polimorfismo y uso de super.

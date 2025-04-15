@@ -22,7 +22,7 @@ fun main(args: Array<String>) {
 }
 
 //Uso de interfaces para definir estructuras comunes a diferentes clases.
-//🔹 La interfaz Punto define el método imprimir().
+//🔹 La interfaz Punto define el metodo imprimir().
 //🔹 PuntoPlano representa un punto con coordenadas x e y.
 //🔹 PuntoEspacio agrega la coordenada z para representar puntos en 3D.
 //🔹 En main(), se crean ambos tipos de punto y se imprimen sus coordenadas.
